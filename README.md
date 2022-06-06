@@ -1,6 +1,9 @@
 # 
 
-Le projet consiste à mettre en place une application de gestion d’une bibliothèque. En effet, nous prévoyons d’élaborer ledit projet en utilisant le framework Flutter du langage Dart
+Le projet consiste à mettre en place une application de gestion d’une bibliothèque. En effet, nous prévoyons d’élaborer ledit projet en utilisant le framework Flutter du langage Dart.
+
+
+
 Front: Flutter
 Backend : NestJs
 Gestion de la base de données : mysql
