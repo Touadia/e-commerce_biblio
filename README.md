@@ -5,7 +5,9 @@ Le projet consiste à mettre en place une application de gestion d’une bibliot
 
 
 Front: Flutter
+
 Backend : NestJs
+
 Gestion de la base de données : mysql
 ## Getting Started
 
