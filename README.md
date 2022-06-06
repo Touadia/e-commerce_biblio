@@ -1,6 +1,6 @@
 # 
 
-Le projet consiste à mettre en place une application de gestion d’une bibliothèque. En effet, nous prévoyons d’élaborer ledit projet en utilisant le langage python
+Le projet consiste à mettre en place une application de gestion d’une bibliothèque. En effet, nous prévoyons d’élaborer ledit projet en utilisant le framework Flutter du langage Dart
 ## Getting Started
 
 This project is a starting point for a Flutter application.
